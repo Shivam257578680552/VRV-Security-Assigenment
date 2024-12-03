@@ -29,7 +29,7 @@ To get started with this project, follow the steps below:
 1. Clone the Project
 First, clone the repository to your local machine using command :
 
-git clone https://github.com/janhvi-pandey/VRV-Security-Frontend-Assignment.git
+https://github.com/shivam257578680552/vrv-security-assigenment.git
 
 2. Navigate to the Project Folder
 Move into the project directory:
